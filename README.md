@@ -8,7 +8,7 @@ The app is a modified version of a crypto tracking app which is made for improve
 <img src="https://user-images.githubusercontent.com/64978825/155035480-454aa8b8-b725-4cb7-ac4e-522bdb3cbbaa.png" width="252" height="540">|
 <img src="https://user-images.githubusercontent.com/64978825/155200935-a19a8395-a65a-475d-a0a4-09e0926459ae.png" width="252" height="540">
 
-## Screenshots
+## Screenshots (Before modification)
 <img src="https://user-images.githubusercontent.com/64978825/154864464-13bade65-3153-4f9d-b695-04a31ea26da6.png" width="252" height="540">|
 <img src="https://user-images.githubusercontent.com/64978825/154864466-19116d55-403d-4bf5-98e0-9834536e789a.png" width="252" height="540">|
 
