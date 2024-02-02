@@ -4,6 +4,7 @@ The app is a modified version of a crypto tracking app which is made for improve
 ## What's New
 - Added a new tab for crypto related news
 - Added a new tab that shows the Top 100 exchanges and their 24 hour BTC trading volume normalised
+
 <img src="https://user-images.githubusercontent.com/64978825/155035480-454aa8b8-b725-4cb7-ac4e-522bdb3cbbaa.png" width="252" height="540">|
 <img src="https://user-images.githubusercontent.com/64978825/155200935-a19a8395-a65a-475d-a0a4-09e0926459ae.png" width="252" height="540">
 
